@@ -1,12 +1,12 @@
-xec :)
+hei0 :)
 
 
 
 
-How to Use: Cd Ddos-Xec
+How to Use: Cd Ddos-Hei0
 ls
-Chmod +x DDos-Xec.py
-python3 Ddos-Xec.py
+Chmod +x heisenberg0ddos.py
+python3 heisenberg0ddos.py
 And ready
 
 I am not responsible for any action taken, the responsibility belongs entirely to the user.
